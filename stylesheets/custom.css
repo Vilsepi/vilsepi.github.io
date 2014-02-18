@@ -1,0 +1,28 @@
+
+body {
+	padding-top: 30px;
+	color: #555;
+	background-color: #303030;
+	font-family: Verdana, sans-serif;
+}
+
+a:link {color:#666;}
+a:visited {color:#666;}
+a:hover {color:#666;}
+a:active {color:#666;}
+
+.vil-rowsection {
+  margin-top: 180px
+}
+
+a img {
+  opacity: .4;
+  -o-transition:.25s;
+  -ms-transition:.25s;
+  -moz-transition:.25s;
+  -webkit-transition:.25s;
+  transition:.25s;
+}
+
+.vil-logo:hover {opacity:1; background-image:none;}
+
